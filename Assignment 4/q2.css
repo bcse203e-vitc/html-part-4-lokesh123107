@@ -1,0 +1,41 @@
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header h2 {
+  color: rgb(255, 223, 186);
+  margin-top: 10px;
+  font-weight: 400;
+}
+main {
+  background-color: lightgoldenrodyellow;
+  padding: 60px 20px;
+  text-align: center;
+}
+button {
+  background-color: rgba(74, 144, 226, 0.85);
+  color: white;
+  border: none;
+  padding: 15px 35px;
+  font-size: 1.2rem;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 5px 15px rgba(74, 144, 226, 0.5);
+  transition: background-color 0.3s ease;
+  margin-top: 30px;
+}
+button:hover {
+  background-color: rgba(74, 144, 226, 1);
+  box-shadow: 0 8px 20px rgba(74, 144, 226, 0.8);
+}
+footer {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 40px;
+}

@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  padding: 40px;
+}
+.box {
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffffff;
+}
+.box1 {
+  background-color: #e6f0ff;
+  padding: 30px;
+  border: 3px solid #0074d9;
+}
+.box2 {
+  background-color: #fff5e6;
+  padding: 15px;
+  border: 2px dashed #ff851b;
+}
+.box3 {
+  background-color: #e6ffee;
+  padding: 10px;
+  color: #555;
+  border: none;
+}
